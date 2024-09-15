@@ -6,6 +6,9 @@ authors = ["Riaz Munshi <riaz.2012@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+mistral-common = "^1.4.0"
+vllm = "^0.6.1"
+pytest = "^8.3.3"
 
 [tool.poetry.dev-dependencies]
 
